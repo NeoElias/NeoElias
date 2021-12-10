@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @NeoElias and I am currently based in Atlanta.
-- 👀 I’m interested in frontend web development and using python to automate tasks
-- 🌱 I’m currently learning VueJs!
-
-
-
+- 👀 I am seeking to solidify my professional software development skills and join an innovative, high-performing software team.
+- 🌱 I’m currently learning VueJs and working on algorithms and data structures!
