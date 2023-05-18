@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @NeoElias and I am currently based in Atlanta.
-- 👀 I am seeking to solidify my professional software development skills and join an innovative, high-performing software team.
-- 🌱 I’m currently learning VueJs and working on algorithms and data structures!
